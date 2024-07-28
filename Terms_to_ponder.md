@@ -1,5 +1,20 @@
 ### Frontend Terms
 
+0. **Difference Between Library and Framework (JavaScript Examples)**
+
+- **Library:** A toolbox where you pick and use tools as needed.
+  - *Examples:*
+    - Using jQuery to manipulate the DOM.
+    - Using React to build user interface components.
+    - Using Lodash for utility functions.
+  
+- **Framework:** A puzzle where the framework tells you how to fit the pieces together.
+  - *Examples:*
+    - Using Angular to build a user interface.
+    - Using Vue.js to create single-page applications.
+    - Using Express to handle server-side logic.
+
+
 1. **JSX**
    - **Full Form:** JavaScript XML
    - **Explanation:** A syntax extension for JavaScript that looks similar to XML or HTML. It allows you to write HTML elements in JavaScript and place them in the DOM.
